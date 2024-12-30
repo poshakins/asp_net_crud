@@ -102,3 +102,4 @@
 /Users/iamakinjuwon/Desktop/Holiday_Training/EmployeeAdminPortal/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/iamakinjuwon/Desktop/Holiday_Training/EmployeeAdminPortal/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/iamakinjuwon/Desktop/Holiday_Training/EmployeeAdminPortal/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/iamakinjuwon/Desktop/Holiday_Training/EmployeeAdminPortal/obj/Debug/net8.0/EmployeeAdminPortal.sourcelink.json
